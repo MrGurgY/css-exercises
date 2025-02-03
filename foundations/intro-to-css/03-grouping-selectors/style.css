@@ -1,0 +1,15 @@
+.melns {
+    background-color: black;
+    color: white;
+}
+
+.dzeltens {
+    background-color: yellow;
+    color: black;
+}
+
+.melns, .dzeltens {
+   font-size: 28px;
+   font: helvetica, "Times New Roman", sans-serif;
+   
+}
