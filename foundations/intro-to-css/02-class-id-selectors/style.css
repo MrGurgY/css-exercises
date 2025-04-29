@@ -1,0 +1,19 @@
+
+.odd {
+    background-color: rgb(247, 195, 212);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#otrais {
+    color: #6d86cc;
+    font-size: 36px;
+}
+
+#ceturtais {
+    background-color: rgb(139, 196, 139);
+    font-weight: bold;
+}
+
+.izmers {
+    font-size: 24px;
+}

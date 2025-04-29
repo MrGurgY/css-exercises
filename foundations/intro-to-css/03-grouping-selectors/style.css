@@ -1,0 +1,13 @@
+
+.kopejs {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", "sans-serif";
+}
+.pirmais {
+    background-color: black;
+    color: white;
+}
+
+.otrais {
+    background-color: yellow;
+}
