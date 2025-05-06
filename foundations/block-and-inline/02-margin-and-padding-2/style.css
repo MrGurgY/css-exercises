@@ -35,9 +35,12 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
-  display: block 
-  padding: 24px;
   text-align: center;
+  display: block;
+  padding: 24px;
+  margin: auto;
+  
+  
 
 }
 
